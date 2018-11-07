@@ -1,9 +1,10 @@
 ## fff-HPShelf
 ***
-![SC](https://photos.google.com/photo/AF1QipPZXNgDEMyXk7DVKj2AIoAhMvhAEzHXZLr5vksX)
+![SC](fff-HPShelf/00.jpg)
 
 このジェネレーターソフトウェアは、2017年7月に坂本千彰が制作協力した遊具を元に、坂本千彰が開発したデザインファミリーを生成するためのアプリケーションです。
-![SC](https://photos.google.com/photo/AF1QipMT4j9mi3b44B-Q2xUz7U4f2bnHeLBXwIHrrTjA)
+![SC](fff-HPShelf/00.jpg)
+
 ベースとなる棚形状から棚の幅,高さ,四隅の奥行きを設定することで,任意のサイズの棚をデザインすることができます.四隅の奥行きをそれぞれ違う値に設定することで,棚板,間仕切りがそれに伴って追従し,側面から見た形状が直線によって構成された曲面を描く,放物双曲面が出来上がります.
 今回はBeyond Materializing展に合わせ本来の棚アプリケーションを一部改変し,展覧会作家の協力のもと,希望展示台デザインをそれぞれ作成していただき,実際の展示台の制作までを行なっています.
 
