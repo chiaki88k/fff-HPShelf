@@ -5,6 +5,7 @@
 - Working process
 - Development environment
 - Download Generator
+- Thinking Note
 - Credit
 ***
 ### Introduction
@@ -74,6 +75,17 @@ fff -HPShelfは、2017年7月に坂本千彰が制作協力した遊具を元に
 <img width="1920" alt="04" src="https://user-images.githubusercontent.com/22903046/48149681-119ff180-e300-11e8-95a2-e8a5f03214de.png">
 <br>
 - [Artist Created Data](https://github.com/chiaki88k/fff-HPShelf/raw/c00/ArtistCreatedData.zip)<br>
+
+***
+### Thinking Note<br>
+
+- ディスプレイ状の2次元であるデータを,プリントする,実用性のある家具のようなモチーフまでプリントするという試み
+- オーダーメイド,レディメイド,カスタマイズ,ジェネラティブ,セルフプリント(ここでは平面表現)
+- スケール感の消失,3Dプリントの最大造形サイズによって小物置きにも,椅子にも,机にも,屋根にもなるということ
+- 最大パターン数の決まっているカスタマイズ設計ツールとの違い
+- デザイナーが変数によるデザインファミリーを納品する時代
+- UI設計やwebデザインのようなユーザーの画面サイズに依存するレスポンシブデザインとユーザーの生活にフィッティングすべきである家具デザイン,空間デザイン
+- 乱数ではなく変数であり,ユーザーの求める解が得られるようなデザインをいかにパラメーターを用いて正規分布させるか.
 
 ***
 ### Credit<br>
