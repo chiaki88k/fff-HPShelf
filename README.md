@@ -92,7 +92,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 ### Credit<br>
 
 ##### 木製HPシェル構造の子供用遊具
-- 設計:小野田裕士
+- 設計:[小野田裕士](http://www.mawari.jp/onoda/)
 - 制作:坂本千彰、[サトウフミタカ](http://www.tamabi.ac.jp/pro/g_works/2017/id/s19/)<br>
 
 ##### fff -HPShelf
