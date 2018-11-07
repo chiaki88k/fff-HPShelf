@@ -69,8 +69,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 ***
 ### Download Generator<br>
 
-- [fff -HPShelfForMac](https://github.com/chiaki88k/fff-HPShelf/raw/c00/HPShelfForMac.zip)<br>
-- [fff -HPShelfForWindows](https://github.com/chiaki88k/fff-HPShelf/raw/c00/HPShelfForWindows.zip)<br>
+- [fff -HPShelf](https://github.com/chiaki88k/fff-HPShelf/archive/c00.zip)<br>
 <br>
 <img width="1920" alt="04" src="https://user-images.githubusercontent.com/22903046/48149681-119ff180-e300-11e8-95a2-e8a5f03214de.png"><br>
 
