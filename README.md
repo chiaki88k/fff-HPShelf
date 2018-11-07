@@ -1,4 +1,4 @@
-#### **fff - HPShelf**
+### **fff - HPShelf**
 ***
 - Introduction
 - About software
@@ -15,7 +15,7 @@
 2018/4~  多摩美術大学美術学部情報デザイン学科 副手として勤務
 
 デザイン支援のためのジェネレーター開発を研究中
-[Vimeo](https://vimeo.com/chiaki82k)
+[vimeo](https://vimeo.com/chiaki82k)
 ***
 ##### About software
 <img width="1080" alt="main" src="https://user-images.githubusercontent.com/22903046/48116550-cd820200-e2a9-11e8-97c3-9aae107312ff.png">
