@@ -63,32 +63,35 @@ fff -HPShelfは、2017年7月に坂本千彰が制作協力した遊具を元に
 - macOS High Sierra ver10.13.3<br>
 
 **fff -HPShelfForWindows**
-- Microsoft Windows ver1803
-- Surface Pro<br>
+- Surface Pro
+- Microsoft Windows ver1803<br>
 ***
 ### Download Generator<br>
 
 - [fff -HPShelfForMac](https://github.com/chiaki88k/fff-HPShelf/raw/c00/HPShelfForMac.zip)<br>
 - [fff -HPShelfForWindows](https://github.com/chiaki88k/fff-HPShelf/raw/c00/HPShelfForWindows.zip)<br>
+<br>
+<img width="1920" alt="04" src="https://user-images.githubusercontent.com/22903046/48149681-119ff180-e300-11e8-95a2-e8a5f03214de.png">
+<br>
 - [Artist Created Data](https://github.com/chiaki88k/fff-HPShelf/raw/c00/ArtistCreatedData.zip)<br>
 
 ***
 ### Credit<br>
 
-###### 木製HPシェル構造の子供用遊具
+##### 木製HPシェル構造の子供用遊具
 - 設計:小野田裕士
 - 制作:坂本千彰、サトウフミタカ<br>
 
-###### fff -HPShelf
+##### fff -HPShelf
 - ソフトウェア制作/デザイン:坂本千彰<br>
 
-###### 展示台制作
+##### Beyoond Materializing展 展示台制作
 - 石島響
 - 臼井達也
 - 坂本千彰
-- 佐藤史崇
+- サトウフミタカ
 - 平山夏帆
 - 山口千晶<br>
 
-###### 展示台制作協力
+##### Beyoond Materializing展 展示台データ提供
 - Beyoond Materializing展 出展者の皆さま
