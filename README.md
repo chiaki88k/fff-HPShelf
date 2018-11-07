@@ -17,7 +17,7 @@
 2018/4　　多摩美術大学美術学部情報デザイン学科 副手として勤務<br>
 
 デザイン支援のためのジェネレーター開発を研究中<br>
-[vimeoLink](https://vimeo.com/chiaki82k)
+[vimeo.com/chiaki82k](https://vimeo.com/chiaki82k)
 ***
 ### About Software
 <img width="1080" alt="main" src="https://user-images.githubusercontent.com/22903046/48116550-cd820200-e2a9-11e8-97c3-9aae107312ff.png">
