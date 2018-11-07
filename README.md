@@ -1,9 +1,9 @@
 ## **furniture/ form/ family -HPShelf**
 ***
 - Introduction
-- About software
-- Working process
-- Development environment
+- About Software
+- Working Process
+- Development Environment
 - Download Generator
 - Thinking Note
 - Credit
@@ -19,7 +19,7 @@
 デザイン支援のためのジェネレーター開発を研究中<br>
 [vimeoLink](https://vimeo.com/chiaki82k)
 ***
-### About software
+### About Software
 <img width="1080" alt="main" src="https://user-images.githubusercontent.com/22903046/48116550-cd820200-e2a9-11e8-97c3-9aae107312ff.png">
 
 fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に開発した**デザインファミリー**を生成するためのアプリケーションです.
@@ -44,7 +44,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 本作品の目的は,便利なデザインソフトウェアを開発することではなく,**あるデザイン(定数)に選択できる範囲をつけ変数化することにより,個人の利用にフォーマットされつつも,元となったデザインを失うことなく保持する趣旨の,言わばデザインファミリーを生成する**ジェネレータソフトウェアの開発および,手法の検証になります.
 
 ***
-### Working process
+### Working Process
 ![02](https://user-images.githubusercontent.com/22903046/48137931-7e0df700-e2e6-11e8-9ce6-de18c6f33298.jpg)
 
 2018年11月,[多摩美術大学アートテーク](https://www.tamabi.ac.jp/art-theque/)で行われる[Beyoond Materializing展](http://www.idd.tamabi.ac.jp/~kubotaa/bmv.jpg)にて,実施実験としてfff -HPShelfを使用した展示台制作を行いました。展示空間や展覧会コンセプトに合わせ本来の棚アプリケーションを一部改変し,展覧会作家の協力のもと,希望展示台デザインをそれぞれ作成していただき,実際の展示台の制作までを行なっています.
@@ -58,7 +58,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 
 ※実制作に関しては[Shopbot](https://goo.gl/QB8Yio)を使用したCNC切削を想定していましたが,展覧会スケジュールに合わせ,[パネルソー](https://goo.gl/yHcjFh)などの工作機械を使用しています.
 ***
-### Development environment
+### Development Environment
 **fff -HPShelfForMac**
 - MacBook Pro (15-inch, 2016)
 - macOS High Sierra ver10.13.3<br>
