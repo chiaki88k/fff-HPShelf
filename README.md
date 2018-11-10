@@ -98,12 +98,12 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 - ソフトウェア制作/デザイン:坂本千彰<br>
 
 ##### Beyoond Materializing展 展示台制作
-- 石島響
+- [石島響](https://www.youtube.com/watch?v=JEfOmFLemhI)
 - [臼井達也](http://usui-works.tumblr.com)
 - 坂本千彰
 - [サトウフミタカ](http://www.tamabi.ac.jp/pro/g_works/2017/id/s19/)
-- 平山夏帆
-- 山口千晶<br>
+- [平山夏帆](http://www.tamabi.ac.jp/pro/g_works/2017/id/s5/)
+- [山口千晶](https://mediainteraction.tokyo/portfolio/blindness-chiakiyamaguchi/)<br>
 
 ##### Beyoond Materializing展 展示台データ提供
 - Beyoond Materializing展 出展者の皆さま
