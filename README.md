@@ -47,7 +47,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 ### Working Process
 ![02](https://user-images.githubusercontent.com/22903046/48137931-7e0df700-e2e6-11e8-9ce6-de18c6f33298.jpg)
 
-2018年11月,[多摩美術大学アートテーク](https://www.tamabi.ac.jp/art-theque/)で行われる[Beyoond Materializing展](http://www.idd.tamabi.ac.jp/~kubotaa/bmv.jpg)にて,実施実験としてfff -HPShelfを使用した展示台制作を行いました。展示空間や展覧会コンセプトに合わせ本来の棚アプリケーションを一部改変し,展覧会作家の協力のもと収集した希望展示台デザインの実制作を行なっています.
+2018年11月,[多摩美術大学アートテーク](https://www.tamabi.ac.jp/art-theque/)で行われる[Beyond Materializing展](http://www.idd.tamabi.ac.jp/~kubotaa/bmv.jpg)にて,実施実験としてfff -HPShelfを使用した展示台制作を行いました。展示空間や展覧会コンセプトに合わせ本来の棚アプリケーションを一部改変し,展覧会作家の協力のもと収集した希望展示台デザインの実制作を行なっています.
 <br>
 なおこのgithubプロジェクトにおいても,展覧会時に配布したアプリケーションデータをアーカイブとしてダウンロードすることができます.
 ##### 制作プロセス<br>
@@ -97,7 +97,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 ##### fff -HPShelf
 - ソフトウェア制作/デザイン:坂本千彰<br>
 
-##### Beyoond Materializing展 展示台制作
+##### Beyond Materializing展 展示台制作
 - [石島響](https://www.youtube.com/watch?v=JEfOmFLemhI)
 - [臼井達也](http://usui-works.tumblr.com)
 - 坂本千彰
@@ -105,5 +105,8 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 - [平山夏帆](http://www.tamabi.ac.jp/pro/g_works/2017/id/s5/)
 - [山口千晶](https://mediainteraction.tokyo/portfolio/blindness-chiakiyamaguchi/)<br>
 
-##### Beyoond Materializing展 展示台データ提供
-- Beyoond Materializing展 出展者の皆さま
+##### Beyond Materializing展 展示台データ提供
+- Beyond Materializing展 出展者の皆さま
+
+##### Beyond Materializing展 会場写真
+- [ビヨンド・マテリアライジング展（撮影：竹久直樹・須田行紀）](https://photos.app.goo.gl/fm4X5wd8G442hKZs5)
