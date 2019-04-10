@@ -5,7 +5,7 @@
 - Working Process
 - Development Environment
 - Download Generator
-- Thinking Note
+- Note
 - Credit
 ***
 ### Introduction
@@ -76,7 +76,7 @@ fff -HPShelfは,2017年7月に坂本千彰が制作協力した遊具を元に�
 - [Artist Created Data](https://github.com/chiaki88k/fff-HPShelf/raw/c00/ArtistCreatedData.zip)<br>
 
 ***
-### Thinking Note<br>
+### Note<br>
 
 - ディスプレイ上の2次元であるデータを,プリントする,実用性のある家具のようなモチーフまでプリントするという試み
 - オーダーメイド,レディメイド,カスタマイズ,ジェネラティブ,セルフプリント(ここでは平面表現)
